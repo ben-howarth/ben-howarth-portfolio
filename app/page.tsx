@@ -10,7 +10,7 @@ export default function Home() {
 
       <div className="relative self-center bg-white h-64 w-1/2 align-baseline text-center text-black border-8 border-black drop-shadow-2xl">
       Software Developer with about four years of development experience. 
-      Currently I'm returning from a career break I began at the end of 2022 and lasting until mid 2023. 
+      Currently I&apos;m returning from a career break I began at the end of 2022 and lasting until mid 2023. 
       I used this time to travel around Central America and train for a half marathon (hopefully have a full coming next year).
       Currently looking for a new full stack role, working on some personal projects now which will be available to check out here.
       </div>
