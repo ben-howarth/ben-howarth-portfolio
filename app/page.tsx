@@ -9,10 +9,11 @@ export default function Home() {
       </div>
 
       <div className="relative self-center bg-white h-64 w-1/2 align-baseline text-center text-black border-8 border-black drop-shadow-2xl">
-      Software Developer with about four years of development experience. 
-      Currently I&apos;m returning from a career break I began at the end of 2022 and lasting until mid 2023. 
-      I used this time to travel around Central America and train for a half marathon (hopefully have a full coming next year).
-      Currently looking for a new full stack role, working on some personal projects now which will be available to check out here.
+      Software Developer with four years of development experience based in Cork, Ireland. 
+      Currently returning from a career break which began in Sept 2022 and lasted until May 2023. 
+      I used this time to travel around Mexico and Central America and train for a half marathon (hopefully have a full coming next year).
+      Currently looking for a new full stack role, ideally using Kotlin/Java and React but open to learning other tech. 
+      I&apos;m working on some personal projects at the moment which will be available to check out here.
       </div>
 
       <div className="mb-32 grid text-center lg:mb-0 lg:grid-cols-2 lg:text-left space-x-32">
